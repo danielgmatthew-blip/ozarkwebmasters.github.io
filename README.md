@@ -1,3 +1,12 @@
-<a class="btn" href="/roofing-demo/" target="_blank">View Sample</a>
-<a class="btn" href="/plumbing-demo/" target="_blank">View Sample</a>
-<a class="btn" href="/restaurant-demo/" target="_blank">View Sample</a>
+/public_html   (or Netlify root)
+│
+├── index.html                ← MAIN Ozark Webmasters site
+│
+├── roofing-demo/
+│   └── index.html
+│
+├── landing-demo/
+│   └── index.html
+│
+└── ecommerce-demo/
+    └── index.html
